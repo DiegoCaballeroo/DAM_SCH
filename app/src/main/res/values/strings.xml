@@ -1,3 +1,16 @@
 <resources>
     <string name="app_name">DAM_SCH</string>
+    <string name="nombresapellidos">Apellidos y Nombre</string>
+    <string name="correo">Correo Electrónico\n</string>
+    <string name="password">Clave</string>
+    <string name="fechanaci">Fecha de Nacimiento\n</string>
+    <string name="sistemas">Ingenieria de Sistemas</string>
+    <string name="ambiental">Ingenieria Ambiental</string>
+    <string name="mecanica">Ingenieria Mecanica</string>
+    <string name="administracion">Administracion</string>
+    <string name="radio">Radio</string>
+    <string name="internet">Internet</string>
+    <string name="amigo">Amigo</string>
+    <string name="publicidad">Publicidad\n</string>
+    <string name="enviar">Enviar</string>
 </resources>
